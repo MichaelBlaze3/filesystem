@@ -1,0 +1,9 @@
+{
+    "files": [
+        "./src/ts/**.ts"
+    ],
+    "compilerOptions": {
+        "modules": "commonjs",
+        "noImplicity": false
+    }
+}
